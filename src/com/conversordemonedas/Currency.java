@@ -6,4 +6,5 @@ public enum Currency {
     LIBRA_ESTERLINA,
     YEN_JAPONES,
     WON_SUR_COREANO,
+    PEN
 }
